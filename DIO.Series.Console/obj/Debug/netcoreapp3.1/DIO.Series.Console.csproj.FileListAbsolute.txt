@@ -1,0 +1,17 @@
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.exe
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.deps.json
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.json
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.runtimeconfig.dev.json
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfoInputs.cache
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.AssemblyInfo.cs
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.csproj.CopyComplete
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.dll
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.pdb
+C:\Users\nicol\Downloads\dio-dotnet-poo-lab-2-master\DIO.Series.Console\obj\Debug\netcoreapp3.1\DIO.Series.Console.genruntimeconfig.cache
